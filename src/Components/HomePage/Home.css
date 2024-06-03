@@ -1,0 +1,38 @@
+.hotels {
+  width: 90%;
+  margin: auto;
+}
+
+.hotel-image {
+  height: 260px;
+  width: 260px;
+  border-radius: 15px;
+  margin: auto;
+}
+
+.hotel-text {
+  margin: auto;
+}
+
+.app-image {
+  height: 300px;
+  width: 400px;
+  border-radius: 10px;
+  float: left;
+  padding: 5px;
+}
+
+.vacation-set {
+  display: flex;
+  margin: auto;
+  width: 80%;
+  justify-content: center;
+}
+
+.vacation-image {
+  margin-top: 10px;
+  height: 97%;
+  width: 95%;
+  padding: 3px;
+  border-radius: 25px;
+}
